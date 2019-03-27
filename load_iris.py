@@ -7,7 +7,7 @@ X = iris.data
 y = iris.target
 
 
-plt.figure(1, figsize=(16,8))
+plt.figure(1, figsize=(10,5))
 plt.clf()
 
 
