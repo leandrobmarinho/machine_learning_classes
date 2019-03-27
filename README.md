@@ -1,5 +1,7 @@
 # Codes of Machine Learning
 
+![](ml.png?raw=true)
+
 ### Install virtualenv via pip:
 pip install virtualenv
 
