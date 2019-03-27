@@ -13,7 +13,7 @@ tangerina   = [0, 1, 2, 1, 1]
 
 
 print(distance.cityblock(laranja, tangerina))
-print(distance.euclidean(laranja, tangerina))
+# print(distance.euclidean(laranja, tangerina))
 
-print(distance.euclidean(maca, tangerina))
+# print(distance.euclidean(maca, tangerina))
 print(distance.cityblock(maca, tangerina))
